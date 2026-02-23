@@ -3,11 +3,11 @@
 ## Student Details
 
 - **Full Name:** `Sania Hassan Khan`
-- **CCID:** `<Enter ccid>`
+- **CCID:** `27100027`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+`N/A`
 
 ## Verbal Collaboration
 
