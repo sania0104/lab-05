@@ -7,11 +7,8 @@
 
 ## References and Resources
 
-`N/A`
+`The tutorial recording`
 
 ## Verbal Collaboration
 
-| Student Name | CCID     |
-| ------------ | -------- |
-| `<example1>` | `<CCID>` |
-| `<example2>` | `<CCID>` |
+`N/A`
